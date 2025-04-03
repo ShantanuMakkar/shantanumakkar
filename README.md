@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/437c748c-36c7-4e9b-b0b3-87e46cc48806)
-
+<img src="[https://your-image-url.com](https://github.com/user-attachments/assets/437c748c-36c7-4e9b-b0b3-87e46cc48806)" width="300" height="200">
 
 Hi there 👋 I'm Shantanu Makkar, from India 🇮🇳
 
